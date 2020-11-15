@@ -1,6 +1,0 @@
-org/ser/plainserver/SimpleServer.java
- org.ser.plainserver.SimpleServer
- org.ser.plainserver.SimpleServer$1
- org.ser.plainserver.SimpleServer$ConnectionThread
- org.ser.plainserver.SimpleServer$SimpleResponse
- org.ser.plainserver.SimpleServer$StatusResponse
